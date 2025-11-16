@@ -1,0 +1,9 @@
+{
+	"name": "adfgowt",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d0907eca-4218-4dbf-8754-f8e4612fab14",
+		"tenantId": "b7e14a49-fa92-472e-a015-ab07b7dd3ad0"
+	}
+}
